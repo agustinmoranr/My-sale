@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background-color: #14259a;   
+    font-family: Helvetica;
+    font-size: 2em;
+}
+
+.boton {
+    margin-top: 20px;
+    margin-left: 1em;
+    border-radius: 4px;
+    border-color: black;
+    color: black;
+    background-color: white;
+    font-size: 1.2em;
+}
+
+.input {
+    height: 3em;
+    width: 80vh;
+    margin: 10px 2em;
+    display: inline-flex;
+    border-radius: 5px;
+    font-size: 0.6em;
+}
