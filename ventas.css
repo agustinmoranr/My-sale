@@ -5,6 +5,10 @@ body {
     font-size: 2em;
 }
 
+.title{
+    
+}
+
 .boton {
     margin-top: 20px;
     margin-left: 1em;
@@ -15,6 +19,10 @@ body {
     font-size: 1.2em;
 }
 
+.inputContainer {
+    display: -webkit-inline-box;
+}
+
 .input {
     height: 3em;
     width: 80vh;
@@ -22,4 +30,16 @@ body {
     display: inline-flex;
     border-radius: 5px;
     font-size: 0.6em;
+}
+
+.imageContainer {
+    display: flex;
+    margin-right: 0px;
+}
+
+.img {
+    float: right;
+    width: 75%;
+    margin-left: 40px;
+    margin-right: 20px;
 }
